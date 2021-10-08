@@ -1,2 +1,2 @@
-# sb_capstone_project
+# New York City Taxi Optimization
 Springboard Data Engineering Capstone Project
