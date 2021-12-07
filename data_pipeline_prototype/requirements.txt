@@ -1,0 +1,5 @@
+pyspark
+pyarrow
+uszipcode
+sodapy
+requests
