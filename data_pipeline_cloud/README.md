@@ -7,7 +7,7 @@ Python 3.7\
 AWS EMR Cluster
 
 ## Prerequisites
-* Sign up for an AWS account, and setup a S3 bucket with input/output folders. Also setup a EMR Spark Cluster.
+* Sign up for an AWS account, and setup a S3 bucket with input/output folders. Also setup a EMR Spark Cluster and bootstrap above shell script to install dependecies.
 https://aws.amazon.com
 * Sign up for an AppToken to retrieve data. You will need your username, password, and apptoken.
 https://dev.socrata.com/foundry/data.cityofnewyork.us/h9gi-nx95
